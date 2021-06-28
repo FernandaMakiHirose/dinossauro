@@ -1,5 +1,5 @@
 ## Dinossauro sem Internet
-Basicamente, quando você apertar o dinossauro automaticamente, vai começar a andar, e o seu objetivo será não deixar ele esbarrar nos cactos que forem aparecendo. Por isso, você deve sempre pular quando ver um cacto. Caso você esbarre em algum cacto você perde.
+Basicamente, o seu objetivo será não deixar o dinossauro esbarrar nos cactos que forem aparecendo. Por isso, você deve sempre pular quando ver um cacto. Caso você esbarre em algum cacto você perde.
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
