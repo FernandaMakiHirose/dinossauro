@@ -1,6 +1,6 @@
 ## Dinossauro sem Internet
-Basicamente, o seu objetivo será não deixar o dinossauro esbarrar nos cactos que forem aparecendo. Por isso, você deve sempre pular quando ver um cacto. Caso você esbarre em algum cacto você perde. <br>
-Link do site: https://fernandamakihirose.github.io/jogo-dino/
+- Basicamente, o seu objetivo será não deixar o dinossauro esbarrar nos cactos que forem aparecendo. Por isso, você deve sempre pular quando ver um cacto. Caso você esbarre em algum cacto você perde. <br>
+- Link do site: https://fernandamakihirose.github.io/jogo-dino/
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
 
