@@ -3,7 +3,7 @@
 - <a href="https://fernandamakihirose.github.io/jogo-dino/" target="_blank">Clique aqui para jogar</a>
 
 # Comandos
-- Pular: botão de espaço.
+Pular: botão de espaço.
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
